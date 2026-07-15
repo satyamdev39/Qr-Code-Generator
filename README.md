@@ -24,4 +24,4 @@ Here're some of the project's best features:
 
 <p>3. Open HTML File In Your Browser</p>
 
-<h2>🍰 Contribution Guidelines:</h2>
+
